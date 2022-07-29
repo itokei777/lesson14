@@ -17,3 +17,5 @@ diff /tmp/$$-result /tmp/$$-ans || ERROR EXIT  "1個目のテスト"
 
 echo "テストクリア"
 rm /tmp/$$-*
+
+exit 0
