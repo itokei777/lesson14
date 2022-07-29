@@ -1,4 +1,4 @@
 language: bash
 script:
- - echo "travis CI でテスト開始"
+ - echo "travis CI でテスト開始するよ"
  - ./test_hello.py
